@@ -7,7 +7,7 @@ import numpy as np
 import re
 
 
-# SIGN UP FOR TWITTER API BEFORE USING U CANT ANSWER THE NEXT 4 LINS!!!!!
+# SIGN UP FOR TWITTER API BEFORE USING U CANT ANSWER THE NEXT 4 LINES!!!!!
 api_key = ''
 api_key_secret = '' 
 access_token = ''
